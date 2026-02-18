@@ -1,0 +1,5 @@
+1) Renaming the multiple files in directory by adding prefix/suffix to it.
+2) Extracting specific column from csv file for processing.
+3) Monitor system resource usage and send alert if exceeds threshold.
+4) Maintenance by updating packages whenever the updates come and removing temporary files.
+5) Script to execute add,commit and push for already created GitHub repo by passing commit message.
